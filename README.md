@@ -8,7 +8,7 @@ React(version ^15.4.0), ReactDOM, Bootstrap
 Webpack, Webpack Dev Server, Gulp, Babel
 
 
-#Steps to bring local server
+#Steps
 
 1. Clone the git url
 
