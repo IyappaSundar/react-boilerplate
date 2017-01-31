@@ -13,11 +13,11 @@ Webpack, Webpack Dev Server, Gulp, Babel
 1. Clone the git url
 
 2. Execute command below to install dependencies
-npm install
+# npm install
 
 3. Execute command below to bring up local server
-gulp server
+# gulp server
 
 4. Execute command below to build for PROD
-gulp build-prod
+# gulp build-prod
 
